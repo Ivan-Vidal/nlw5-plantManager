@@ -1,5 +1,6 @@
 # nlw5 plantManager 
 
+<img src="assets\icon.png" style="width: 200px;">
 
 ### Objetivo do projeto
 
